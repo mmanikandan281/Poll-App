@@ -1,7 +1,3 @@
-Here’s a more **attractive and polished** version of your `README.md` content for **Django-Poll-App**, keeping it concise, clear, and visually engaging:
-
----
-
 # 🗳️ Django Poll App
 
 **Django Poll App** is a feature-rich, user-authenticated polling platform built with Django. Users must register to view and vote in polls. Each user can vote only once per poll. Poll owners have full control to manage polls and choices—including creating, updating, deleting, and ending polls. Once a poll is ended, users can only view the final results.
